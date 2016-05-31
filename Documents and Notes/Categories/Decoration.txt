@@ -1,0 +1,16 @@
+depends="AppleCore" - Hunger Overhaul,Pam&apos;s HarvestCraft,Hunger In Peace,AgriCraft
+depends="CodeChickenCore" - EnderStorage,
+depends="CoroUtil Library" - Zombie Awareness
+depends="D3Core" - TorchTools
+depends="bspkrsCore" - Treecapitator
+depends="DragonAPI" - ExpandedRedstone
+depends="EnderCore" - WAILA Plugins
+depends="MobiusCore" - Waila
+depends="MrTJPCore" - ProjectRed Core,ProjectRed Transmission,ProjectRed Illumination,ProjectRed Compatibility
+depends="OpenMods" - OpenEye, OpenBlocks, 
+depends="ProjectRed Core" - ProjectRed Transmission,ProjectRed Illumination
+depends="ComputerCraft" - OpenCCSensors
+
+
+
+Minecraft Forge - Everything.

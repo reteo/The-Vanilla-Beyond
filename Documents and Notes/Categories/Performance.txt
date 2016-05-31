@@ -1,0 +1,1 @@
+This instance of The Vanilla Beyond includes mods that attempt to improve performance.  It is recommended to remove these mods if you encounter problems with the game such as texture glitches, broken components, or crashing.

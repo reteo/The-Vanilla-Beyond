@@ -1,0 +1,12 @@
+{
+  "modid": "The Vanilla Beyond",
+  "name": "Survival Industry",
+  "description" : "This is the core mod of the Vanilla Beyond Modpack. It tweaks the game to maximize features without changing its mechanics.",
+  "version"	:	"1.0.0",
+  "scripts" : ["main.js"],
+  "authors"	: ["Reteo"],
+  "url" : null,
+  "logo" : "VanillaBeyond.png",
+  "credits" : null
+
+}

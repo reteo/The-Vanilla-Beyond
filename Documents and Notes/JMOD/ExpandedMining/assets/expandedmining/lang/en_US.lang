@@ -1,0 +1,272 @@
+itemGroup.ExpandedMining.general=Expanded Mining: Ores and Metals
+itemGroup.ExpandedMining.tools=Expanded Mining: Tools and Weapons
+itemGroup.ExpandedMining.armor=Expanded Mining: Armor
+
+info.ExpandedMining.tooltips.chiselnomodes=This Chisel has no carving modes
+info.ExpandedMining.tooltips.chiselhasmodes=This Chisel has several carving modes
+
+info.ExpandedMining.armorvalue=Armor Value: 
+
+tile.ExpandedMining.oreTin.name=Tin Ore
+tile.ExpandedMining.oreCopper.name=Copper Ore
+tile.ExpandedMining.oreSilver.name=Silver Ore
+tile.ExpandedMining.oreAluminum.name=Aluminum Ore
+tile.ExpandedMining.oreLead.name=Lead Ore
+tile.ExpandedMining.oreNickel.name=Nickel Ore
+tile.ExpandedMining.orePlatinum.name=Platinum Ore
+
+item.ExpandedMining.ingotBronze.name=Bronze Ingot
+item.ExpandedMining.ingotElectrum.name=Electrum Ingot
+item.ExpandedMining.ingotPlatinum.name=Platinum Ingot
+item.ExpandedMining.ingotCopper.name=Copper Ingot
+item.ExpandedMining.ingotTin.name=Tin Ingot
+item.ExpandedMining.ingotSilver.name=Silver Ingot
+item.ExpandedMining.ingotAluminum.name=Aluminum Ingot
+item.ExpandedMining.ingotLead.name=Lead Ingot
+item.ExpandedMining.ingotNickel.name=Nickel Ingot
+
+tile.ExpandedMining.blockAluminum.name=Aluminum Block
+tile.ExpandedMining.blockPlatinum.name=Platinum Block
+tile.ExpandedMining.blockElectrum.name=Electrum Block
+tile.ExpandedMining.blockBronze.name=Bronze Block
+tile.ExpandedMining.blockCopper.name=Copper Block
+tile.ExpandedMining.blockNickel.name=Nickel Block
+tile.ExpandedMining.blockSilver.name=Silver Block
+tile.ExpandedMining.blockLead.name=Lead Block
+tile.ExpandedMining.blockTin.name=Tin Block
+tile.ExpandedMining.blockCd-In-Ag.name=Cd-In-Ag Block
+tile.ExpandedMining.blockPitchblende.name=Pitchblende Block
+
+item.ExpandedMining.toolAxeCertus.name=Certus Quartz Axe
+item.ExpandedMining.toolPickaxeCertus.name=Certus Quartz Pickaxe
+item.ExpandedMining.toolShovelCertus.name=Certus Quartz Shovel
+item.ExpandedMining.toolHoeCertus.name=Certus Quartz Hoe
+item.ExpandedMining.toolSwordCertus.name=Certus Quartz Sword
+item.ExpandedMining.toolChiselCertus.name=Certus Quartz Chisel
+
+item.ExpandedMining.toolAxeQuartz.name=Nether Quartz Axe
+item.ExpandedMining.toolPickaxeQuartz.name=Nether Quartz Pickaxe
+item.ExpandedMining.toolShovelQuartz.name=Nether Quartz Shovel
+item.ExpandedMining.toolHoeQuartz.name=Nether Quartz Hoe
+item.ExpandedMining.toolSwordQuartz.name=Nether Quartz Sword
+item.ExpandedMining.toolChiselQuartz.name=Nether Quartz Chisel
+
+item.ExpandedMining.toolAxeTin.name=Tin Axe
+item.ExpandedMining.toolPickaxeTin.name=Tin Pickaxe
+item.ExpandedMining.toolShovelTin.name=Tin Shovel
+item.ExpandedMining.toolHoeTin.name=Tin Hoe
+item.ExpandedMining.toolSwordTin.name=Tin Sword
+item.ExpandedMining.toolChiselTin.name=Tin Chisel
+
+item.ExpandedMining.toolAxeCopper.name=Copper Axe
+item.ExpandedMining.toolPickaxeCopper.name=Copper Pickaxe
+item.ExpandedMining.toolShovelCopper.name=Copper Shovel
+item.ExpandedMining.toolHoeCopper.name=Copper Hoe
+item.ExpandedMining.toolSwordCopper.name=Copper Sword
+item.ExpandedMining.toolChiselCopper.name=Copper Chisel
+
+item.ExpandedMining.toolAxeBronze.name=Bronze Axe
+item.ExpandedMining.toolPickaxeBronze.name=Bronze Pickaxe
+item.ExpandedMining.toolShovelBronze.name=Bronze Shovel
+item.ExpandedMining.toolHoeBronze.name=Bronze Hoe
+item.ExpandedMining.toolSwordBronze.name=Bronze Sword
+item.ExpandedMining.toolChiselBronze.name=Bronze Chisel
+
+item.ExpandedMining.toolAxeElectrum.name=Electrum Axe
+item.ExpandedMining.toolPickaxeElectrum.name=Electrum Pickaxe
+item.ExpandedMining.toolShovelElectrum.name=Electrum Shovel
+item.ExpandedMining.toolHoeElectrum.name=Electrum Hoe
+item.ExpandedMining.toolSwordElectrum.name=Electrum Sword
+
+item.ExpandedMining.toolAxeSilver.name=Silver Axe
+item.ExpandedMining.toolPickaxeSilver.name=Silver Pickaxe
+item.ExpandedMining.toolShovelSilver.name=Silver Shovel
+item.ExpandedMining.toolHoeSilver.name=Silver Hoe
+item.ExpandedMining.toolSwordSilver.name=Silver Sword
+
+item.ExpandedMining.toolAxePlatinum.name=Platinum Axe
+item.ExpandedMining.toolPickaxePlatinum.name=Platinum Pickaxe
+item.ExpandedMining.toolShovelPlatinum.name=Platinum Shovel
+item.ExpandedMining.toolHoePlatinum.name=Platinum Hoe
+item.ExpandedMining.toolSwordPlatinum.name=Platinum Sword
+item.ExpandedMining.toolChiselPlatinum.name=Platinum Chisel
+
+item.ExpandedMining.toolAxeAluminum.name=Aluminum Axe
+item.ExpandedMining.toolPickaxeAluminum.name=Aluminum Pickaxe
+item.ExpandedMining.toolShovelAluminum.name=Aluminum Shovel
+item.ExpandedMining.toolHoeAluminum.name=Aluminum Hoe
+item.ExpandedMining.toolSwordAluminum.name=Aluminum Sword
+item.ExpandedMining.toolChiselAluminum.name=Aluminum Chisel
+
+item.ExpandedMining.toolAxeNickel.name=Nickel Axe
+item.ExpandedMining.toolPickaxeNickel.name=Nickel Pickaxe
+item.ExpandedMining.toolShovelNickel.name=Nickel Shovel
+item.ExpandedMining.toolHoeNickel.name=Nickel Hoe
+item.ExpandedMining.toolSwordNickel.name=Nickel Sword
+item.ExpandedMining.toolChiselNickel.name=Nickel Chisel
+
+item.ExpandedMining.toolAxeFlint.name=Flint Axe
+item.ExpandedMining.toolPickaxeFlint.name=Flint Pickaxe
+item.ExpandedMining.toolShovelFlint.name=Flint Shovel
+item.ExpandedMining.toolHoeFlint.name=Flint Hoe
+item.ExpandedMining.toolSwordFlint.name=Flint Sword
+item.ExpandedMining.toolChiselFlint.name=Flint Chisel
+
+item.ExpandedMining.toolAxeObsidian.name=Obsidian Axe
+item.ExpandedMining.toolPickaxeObsidian.name=Obsidian Pickaxe
+item.ExpandedMining.toolShovelObsidian.name=Obsidian Shovel
+item.ExpandedMining.toolHoeObsidian.name=Obsidian Hoe
+item.ExpandedMining.toolSwordObsidian.name=Obsidian Sword
+
+item.ExpandedMining.toolAxeSteel.name=Steel Axe
+item.ExpandedMining.toolPickaxeSteel.name=Steel Pickaxe
+item.ExpandedMining.toolShovelSteel.name=Steel Shovel
+item.ExpandedMining.toolHoeSteel.name=Steel Hoe
+item.ExpandedMining.toolSwordSteel.name=Steel Sword
+item.ExpandedMining.toolChiselSteel.name=Steel Chisel
+
+item.ExpandedMining.toolPipeLead.name=Lead Pipe
+
+item.ExpandedMining.armorElectrumHelmet.name=Electrum Helmet
+item.ExpandedMining.armorElectrumChestplate.name=Electrum Chestplate
+item.ExpandedMining.armorElectrumLeggings.name=Electrum Leggings
+item.ExpandedMining.armorElectrumBoots.name=Electrum Boots
+
+item.ExpandedMining.armorSilverHelmet.name=Silver Helmet
+item.ExpandedMining.armorSilverChestplate.name=Silver Chestplate
+item.ExpandedMining.armorSilverLeggings.name=Silver Leggings
+item.ExpandedMining.armorSilverBoots.name=Silver Boots 
+
+item.ExpandedMining.armorCertusHelmet.name=Certus Quartz Helmet
+item.ExpandedMining.armorCertusChestplate.name=Certus Quartz Chestplate
+item.ExpandedMining.armorCertusLeggings.name=Certus Quartz Leggings
+item.ExpandedMining.armorCertusBoots.name=Certus Quartz Boots 
+
+item.ExpandedMining.armorQuartz.name=Nether Quartz Helmet
+item.ExpandedMining.armorQuartzChestplate.name=Nether Quartz Chestplate
+item.ExpandedMining.armorQuartzLeggings.name=Nether Quartz Leggings
+item.ExpandedMining.armorQuartzBoots.name=Nether Quartz Boots 
+
+item.ExpandedMining.armorEmeraldHelmet.name=Emerald Helmet
+item.ExpandedMining.armorEmeraldChestplate.name=Emerald Chestplate
+item.ExpandedMining.armorEmeraldLeggings.name=Emerald Leggings
+item.ExpandedMining.armorEmeraldBoots.name=Emerald Boots 
+
+item.ExpandedMining.armorTinHelmet.name=Tin Helmet
+item.ExpandedMining.armorTinChestplate.name=Tin Chestplate
+item.ExpandedMining.armorTinLeggings.name=Tin Leggings
+item.ExpandedMining.armorTinBoots.name=Tin Boots 
+
+item.ExpandedMining.armorCopperHelmet.name=Copper Helmet
+item.ExpandedMining.armorCopperChestplate.name=Copper Chestplate
+item.ExpandedMining.armorCopperLeggings.name=Copper Leggings
+item.ExpandedMining.armorCopperBoots.name=Copper Boots 
+
+item.ExpandedMining.armorBronzeHelmet.name=Bronze Helmet
+item.ExpandedMining.armorBronzeChestplate.name=Bronze Chestplate
+item.ExpandedMining.armorBronzeLeggings.name=Bronze Leggings
+item.ExpandedMining.armorBronzeBoots.name=Bronze Boots 
+
+item.ExpandedMining.armorPlatinumHelmet.name=Platinum Helmet
+item.ExpandedMining.armorPlatinumChestplate.name=Platinum Chestplate
+item.ExpandedMining.armorPlatinumLeggings.name=Platinum Leggings
+item.ExpandedMining.armorPlatinumBoots.name=Platinum Boots 
+
+item.ExpandedMining.armorAluminumHelmet.name=Aluminum Helmet
+item.ExpandedMining.armorAluminumChestplate.name=Aluminum Chestplate
+item.ExpandedMining.armorAluminumLeggings.name=Aluminum Leggings
+item.ExpandedMining.armorAluminumBoots.name=Aluminum Boots 
+
+item.ExpandedMining.armorNickelHelmet.name=Nickel Helmet
+item.ExpandedMining.armorNickelChestplate.name=Nickel Chestplate
+item.ExpandedMining.armorNickelLeggings.name=Nickel Leggings
+item.ExpandedMining.armorNickelBoots.name=Nickel Boots 
+
+item.ExpandedMining.armorObsidianHelmet.name=Obsidian Helmet
+item.ExpandedMining.armorObsidianChestplate.name=Obsidian Chestplate
+item.ExpandedMining.armorObsidianLeggings.name=Obsidian Leggings
+item.ExpandedMining.armorObsidianBoots.name=Obsidian Boots
+
+item.ExpandedMining.armorSteelHelmet.name=Steel Helmet
+item.ExpandedMining.armorSteelChestplate.name=Steel Chestplate
+item.ExpandedMining.armorSteelLeggings.name=Steel Leggings
+item.ExpandedMining.armorSteelBoots.name=Steel Boots
+
+
+item.thermalfoundation.material.dustMithril.name=Pulverized Mithril
+item.thermalfoundation.material.ingotMithril.name=Mithril Ingot
+item.thermalfoundation.material.nuggetMithril.name=Mithril Nugget
+item.thermalfoundation.material.gearMithril.name=Mithril Gear
+tile.thermalfoundation.ore.mithril.name=Mithril Ore
+tile.thermalfoundation.storage.mithril.name=Mithril Block
+item.thermalfoundation.material.dustNickel.name=Pulverized Nickel
+item.thermalfoundation.material.ingotNickel.name=Nickel Ingot
+item.thermalfoundation.material.nuggetNickel.name=Nickel Nugget
+item.thermalfoundation.material.gearNickel.name=Nickel Gear
+item.thermalfoundation.armor.nickelHelmet.name=Nickel Helmet
+item.thermalfoundation.armor.nickelPlate.name=Nickel Chestplate
+item.thermalfoundation.armor.nickelLegs.name=Nickel Leggings
+item.thermalfoundation.armor.nickelBoots.name=Nickel Boots
+item.thermalfoundation.tool.nickelSword.name=Nickel Sword
+item.thermalfoundation.tool.nickelShovel.name=Nickel Shovel
+item.thermalfoundation.tool.nickelPickaxe.name=Nickel Pickaxe
+item.thermalfoundation.tool.nickelAxe.name=Nickel Axe
+item.thermalfoundation.tool.nickelHoe.name=Nickel Hoe
+item.thermalfoundation.tool.nickelShears.name=Nickel Shears
+item.thermalfoundation.tool.nickelFishingRod.name=Nickel Fishing Rod
+item.thermalfoundation.tool.nickelSickle.name=Nickel Sickle
+item.thermalfoundation.tool.nickelBow.name=Nickel Reinforced Bow
+tile.thermalfoundation.ore.nickel.name=Nickel Ore
+tile.thermalfoundation.storage.nickel.name=Nickel Block
+material.thermalfoundation.nickel=Nickel
+item.iguana.tcon.clayBucket.Ferrous.name=Molten Nickel Clay Bucket
+item.tconstruct.bucket.Ferrous.name=Molten Nickel Bucket
+tile.fluid.molten.ferrous.name=Molten Nickel
+LiquidMetal.Ferrous.name=Molten Nickel
+fluid.nickel.molten=Molten Nickel
+tile.netherores.ore.nickel.name=Nether Nickel Ore
+item.thermalfoundation.material.dustPlatinum.name=Pulverized Platinum
+item.thermalfoundation.material.ingotPlatinum.name=Platinum Ingot
+item.thermalfoundation.material.nuggetPlatinum.name=Platinum Nugget
+item.thermalfoundation.material.gearPlatinum.name=Platinum Gear
+item.thermalfoundation.armor.platinumHelmet.name=Platinum Helmet
+item.thermalfoundation.armor.platinumPlate.name=Platinum Chestplate
+item.thermalfoundation.armor.platinumLegs.name=Platinum Leggings
+item.thermalfoundation.armor.platinumBoots.name=Platinum Boots
+item.thermalfoundation.tool.platinumSword.name=Platinum Sword
+item.thermalfoundation.tool.platinumShovel.name=Platinum Shovel
+item.thermalfoundation.tool.platinumPickaxe.name=Platinum Pickaxe
+item.thermalfoundation.tool.platinumAxe.name=Platinum Axe
+item.thermalfoundation.tool.platinumHoe.name=Platinum Hoe
+item.thermalfoundation.tool.platinumShears.name=Platinum Shears
+item.thermalfoundation.tool.platinumFishingRod.name=Platinum Fishing Rod
+item.thermalfoundation.tool.platinumSickle.name=Platinum Sickle
+item.thermalfoundation.tool.platinumBow.name=Platinum Reinforced Bow
+tile.thermalfoundation.ore.platinum.name=Platinum Ore
+tile.thermalfoundation.storage.platinum.name=Platinum Block
+material.thermalfoundation.platinum=Platinum
+item.iguana.tcon.clayBucket.Shiny.name=Molten Platinum Clay Bucket
+item.tconstruct.bucket.Shiny.name=Molten Platinum Bucket
+tile.fluid.molten.shiny.name=Molten Platinum
+LiquidMetal.Shiny.name=Molten Platinum
+fluid.platinum.molten=Molten Platinum
+
+info.ExpandedMining.shifted=- Shift for Info -
+
+info.ExpandedMining.harvestlevel=Harvest Level
+info.ExpandedMining.harvestlevel0=Wood
+info.ExpandedMining.harvestlevel1=Stone
+info.ExpandedMining.harvestlevel2=Aluminum
+info.ExpandedMining.harvestlevel3=Platinum
+info.ExpandedMining.harvestlevel4=Iron/Bronze
+info.ExpandedMining.harvestlevel5=Steel
+info.ExpandedMining.harvestlevel6=Obsidian
+info.ExpandedMining.harvestlevel7=Quartz
+info.ExpandedMining.harvestlevel8=Diamond
+info.ExpandedMining.harvestlevel255=Everything
+
+wailaharvestability.harvestlevel0=Wood
+wailaharvestability.harvestlevel1=Stone
+wailaharvestability.harvestlevel2=Iron
+wailaharvestability.harvestlevel3=Diamond
+wailaharvestability.harvestlevel=Harvest Level : 
