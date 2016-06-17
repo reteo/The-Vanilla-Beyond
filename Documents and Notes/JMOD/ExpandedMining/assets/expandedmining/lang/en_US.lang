@@ -7,6 +7,8 @@ info.ExpandedMining.tooltips.chiselhasmodes=This Chisel has several carving mode
 
 info.ExpandedMining.armorvalue=Armor Value: 
 
+item.ExpandedMining.armorMiningHelmet.name=Mining Helmet
+
 tile.ExpandedMining.oreTin.name=Tin Ore
 tile.ExpandedMining.oreCopper.name=Copper Ore
 tile.ExpandedMining.oreSilver.name=Silver Ore
@@ -192,6 +194,10 @@ item.ExpandedMining.armorSteelChestplate.name=Steel Chestplate
 item.ExpandedMining.armorSteelLeggings.name=Steel Leggings
 item.ExpandedMining.armorSteelBoots.name=Steel Boots
 
+item.ExpandedMining.armorLeadHelmet.name=Lead Helmet
+item.ExpandedMining.armorLeadChestplate.name=Lead Chestplate
+item.ExpandedMining.armorLeadLeggings.name=Lead Leggings
+item.ExpandedMining.armorLeadBoots.name=Lead Boots 
 
 item.thermalfoundation.material.dustMithril.name=Pulverized Mithril
 item.thermalfoundation.material.ingotMithril.name=Mithril Ingot

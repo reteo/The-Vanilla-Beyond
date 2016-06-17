@@ -41,7 +41,8 @@ for (var m in toolmat)
 
 // Armor Colors
 defineColor("WOOD", 135, 73, 13);
-defineColor("TIN", 256, 256, 256);
+defineColor("IRON", 255, 255, 255);
+defineColor("TIN", 255, 255, 255);
 defineColor("LEAD", 179, 182, 220);
 defineColor("ELECTRUM", 255, 255, 192);
 defineColor("ALUMINUM", 192, 192, 192);

@@ -147,7 +147,7 @@ for(var m in armorMats) for(var n in armorTypes) {
 // Next, we want to make a mining helmet.  It will look like a normal iron helmet, except that it will be added to the "Dynamic Lights" configuration.
 
 addItem("armorMiningHelmet","CoreArmor",1,"ExpandedMining.armor").armordata(ArmorData("IRON", "helmet"));
-addShapedRecipe("VanillaBeyond:armorMiningHelmet", [
-  ["ingotIron", "itemTorch", "ingotIron"],
-  ["ingotIron", null, "ingotIron"],
+addShapedRecipe("ExpandedMining:armorMiningHelmet", [
+  ["ingotIron", "ingotIron", "ingotIron"],
+  ["ingotIron", "blockTorch", "ingotIron"],
   [null, null, null]]);
